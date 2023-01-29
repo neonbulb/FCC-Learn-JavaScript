@@ -1,2 +1,2 @@
-var myFirstName = "FirstName"
-var myLastName = "LastName"
+var myFirstName = "FirstName";
+var myLastName = "LastName";
