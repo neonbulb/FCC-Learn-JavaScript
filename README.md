@@ -1,2 +1,2 @@
 # FCC Learn JavaScript
-Archive of files from learning JavaScript on Free Code Camp.
+My completed exercise files from learning JavaScript on Free Code Camp.
